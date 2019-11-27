@@ -1,0 +1,72 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.mid {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    margin-top: 75px;
+}
+
+input {
+    padding: 8px;
+    width: 500px;
+    margin-right: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+button {
+    padding: 8px 9.5px;
+    font-size: 20px;
+}
+
+.answer {
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.answer-two {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.column {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h5 {
+    border-bottom: 3px solid burlywood;
+    padding-bottom: 7px;    
+}
+
+.content {
+    text-align: center;
+}
+
+.content.first {
+    font-size: 70px;
+}
+
+.content.second {
+    font-size: 60px;
+}
+
+.content.third {
+    line-height: 1.6;
+}
+
+.abc {
+    border-radius: 50%;
+    background-color: green;
+    font-size: 20px;
+    padding: 8px;
+}
